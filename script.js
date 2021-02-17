@@ -53,7 +53,6 @@ function taskDone(itemId) {
     } else {
         itemToCheck.style.textDecoration = 'line-through'
         itemToCheck.style.color = 'gray'
-        itemToCheck.style.order = 100        
-    }
-   
+        itemToCheck.style.order = cont + 1         
+    }   
 }
