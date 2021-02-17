@@ -1,4 +1,4 @@
-# To Do List app
+# To Do List
 Just a small project using vanilla JS to test what I've learned so far.
 
 The user must type anything on the text field then click on the 'Insert' button.
