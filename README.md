@@ -1,4 +1,4 @@
-# To Do List
+# To Do List application
 
 ## Personal note
 That's a small project made in about 8 hours with vanilla Javascript, HTML and CSS.
